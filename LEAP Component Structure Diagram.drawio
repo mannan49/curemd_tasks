@@ -1,35 +1,164 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="2kIEvzqVXsuV8Udayv0d">
-    <mxGraphModel dx="595" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1545" dy="2642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QzqK_DnKHGt3ijggdnk8-2" target="QzqK_DnKHGt3ijggdnk8-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1050" y="-1230" width="510" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QzqK_DnKHGt3ijggdnk8-2" target="QzqK_DnKHGt3ijggdnk8-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-35" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#38FF45;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry width="509.99999999999994" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QzqK_DnKHGt3ijggdnk8-2" target="QzqK_DnKHGt3ijggdnk8-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-37" value="&lt;span&gt;Patient Health Record Details Module&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry x="66.78571428571428" y="42.98507462686567" width="352.1428571428571" height="32.23880597014925" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Health Records Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="552.5" width="130" height="55" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-38" value="Patient Health Record Container Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry x="48.57142857142857" y="107.46268656716418" width="388.57142857142856" height="64.4776119402985" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Patient Health Records Container Component&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-39" value="Health Record Details Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry x="54.64285714285714" y="236.4179104477612" width="388.57142857142856" height="64.4776119402985" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Health Record Details Component&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-40" value="Health Issues List Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry x="54.64285714285714" y="365.3731343283582" width="388.57142857142856" height="64.4776119402985" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-41" value="Clinical History Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry x="48.57142857142857" y="505.07462686567163" width="388.57142857142856" height="64.4776119402985" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QzqK_DnKHGt3ijggdnk8-2" target="QzqK_DnKHGt3ijggdnk8-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-42" value="Care Team Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-46">
+          <mxGeometry x="48.57142857142857" y="634.0298507462686" width="388.57142857142856" height="64.4776119402985" as="geometry" />
         </mxCell>
-        <mxCell id="QzqK_DnKHGt3ijggdnk8-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-400" y="-240" width="600" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry width="600" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PatientMedicationsModule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry x="56.60377358490565" y="20" width="486.79245283018867" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-48" value="PatientMedicationsComponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry x="67.9245283018868" y="70" width="509.433962264151" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-49" value="MedicationContainerComponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry x="67.9245283018868" y="200" width="509.433962264151" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-50" value="MedicationListComponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry x="67.9245283018868" y="350" width="509.433962264151" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-51" value="RenewMedicationComponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry x="67.9245283018868" y="500" width="509.433962264151" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-52" value="MedicationReminderComponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-53">
+          <mxGeometry x="67.9245283018868" y="650" width="509.433962264151" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="-250" width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-67">
+          <mxGeometry width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PatientAllergiesModule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-67">
+          <mxGeometry x="50" y="20" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-60" value="AllergiesContainerComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-67">
+          <mxGeometry x="40" y="80" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-61" value="AllergiesListComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-67">
+          <mxGeometry x="40" y="210" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-62" value="AllergyComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-67">
+          <mxGeometry x="40" y="350" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1040" y="-250" width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-70" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PatientVitalsModule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry x="50" y="20" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-71" value="VitalsContainerComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry x="40" y="80" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-72" value="VitalsListComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry x="40" y="210" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-73" value="VitalsDetailComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry x="40" y="350" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-74" value="AllergyComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry x="40" y="490" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-75" value="AllergyComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-68">
+          <mxGeometry x="50" y="640" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1830" y="-250" width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-76">
+          <mxGeometry width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-78" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PatientImmunizationsModule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-76">
+          <mxGeometry x="50" y="20" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-79" value="ImmunizationsContainerComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-76">
+          <mxGeometry x="40" y="80" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-80" value="ImmunizationsListComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-76">
+          <mxGeometry x="40" y="210" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-81" value="ImmunizationComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-76">
+          <mxGeometry x="40" y="350" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2640" y="-250" width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PatientLabResultsModule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry x="50" y="20" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-87" value="TestResultContainerComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry x="40" y="80" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-88" value="TestResultsListComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry x="40" y="210" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-89" value="TestResultsComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry x="40" y="350" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-90" value="TestResultComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry x="40" y="490" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-91" value="LabResultDetailComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-84">
+          <mxGeometry x="50" y="640" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3510" y="-250" width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry width="530" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-96" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PatientVitalsModule&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry x="50" y="20" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-97" value="VitalsContainerComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry x="40" y="80" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-98" value="VitalsListComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry x="40" y="210" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-99" value="VitalsDetailComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry x="40" y="350" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-100" value="AllergyComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry x="40" y="490" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dV1gSzbPTBrYAg3rUSXR-101" value="AllergyComponent" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="dV1gSzbPTBrYAg3rUSXR-94">
+          <mxGeometry x="50" y="640" width="450" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
